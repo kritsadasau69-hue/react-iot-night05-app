@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import Home from "./pages/Home"
-import About from "./pages/About"
-import Contact from "./pages/Contact"
-import Product from "./pages/Product"
-import Smartphone from "./pages/Smartphone"
-import Tablet from "./pages/Tablet"
- 
+import Home from "./Pages/Home"
+import About from "./Pages/About"
+import Contact from "./Pages/Contact"
+import Product from "./Pages/Product"
+import Smartphone from "./Pages/Smartphone"
+import Tablet from "./Pages/Tablet"
+
 export default function App() {
   return (
     // <> </> อันนี้เขาเรียก React.Fragment
